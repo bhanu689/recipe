@@ -1,0 +1,105 @@
+body{
+    background-color: antiquewhite;
+    box-sizing: border-box;
+}
+
+img{
+    width: 500px;
+    border-radius: 10px;
+    margin-top: 23px;
+   
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+.container{
+    width: 550px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-top: 20px;
+    
+   margin-left: 370px;
+    
+}
+h1{
+    font-family: "Young Serif", serif;
+    font-size: 27px;
+    font-weight: 500;
+    margin-left: 25px;
+}
+pre{
+    font-family: "Outfit", sans-serif;
+    font-size: 12px;
+    margin-left: 25px;
+    color: rgb(73, 73, 73);
+}
+.prep{
+    background-color: rgb(252, 240, 225);
+    width: 500px;
+    height: 150px;
+    margin-left: 25px;
+    border-radius: 10px;
+    font-family: "Outfit", sans-serif;
+
+   
+}
+h4{
+    margin-left: 20px;
+    text-align: left;
+   color: rgb(83, 4, 83);
+   font-size: 15px;
+   padding-top: 7px;
+}
+li{
+    font-size: 13px;
+    color: rgb(73, 73, 73);
+    padding-top: 10px;
+    font-family: "Outfit", sans-serif;
+}
+.first{
+padding-bottom: -25px;
+font-size: 13px;
+    color: rgb(73, 73, 73);
+}
+h2{
+    margin-left: 30px;
+    font-family: "Young Serif", serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: brown;
+}
+p{
+    font-family: "Outfit", sans-serif;
+    font-size: 12px;
+    margin-left: 28px;
+    color: rgb(73, 73, 73);
+}
+table{
+    font-family: "Outfit", sans-serif;
+    font-size: 12px;  
+   
+    margin-left: 30px;
+    padding-bottom: 50px;
+    line-height: 2rem;
+    border-collapse: collapse ;
+    
+   
+}
+tr {
+    border-bottom: 10px solid black;
+    }
+ th{
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 20px;
+}
+
+td{
+    color: brown;
+    padding-left: 180px;
+}
